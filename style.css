@@ -21,7 +21,9 @@ body{background-color: #d0ced3;
     margin: 0px;}
 
 .Botao{background-color: #474661;
+    float: right;
     color: white;
-    margin: 4px 2px;
+    margin: 4px 4px;
     padding: 15px 32px;
-    cursor: pointer;}
+    cursor: pointer;
+}
