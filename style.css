@@ -1,0 +1,27 @@
+header{
+
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    align-self: stretch;
+    margin: 0px;
+    border-bottom:3px solid #7c7c81;}
+
+#NomePrincipal{
+    width: 250px;}
+
+.abas{
+    color: #474661;
+    font-family:myfirstfont;
+    src:url(/src/font/RBNo3.1-Light.otf)}
+
+body{background-color: #d0ced3;
+    margin: 0px;}
+
+.Botao{background-color: #474661;
+    color: white;
+    margin: 4px 2px;
+    padding: 15px 32px;
+    cursor: pointer;}
