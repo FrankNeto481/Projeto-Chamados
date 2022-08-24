@@ -33,11 +33,11 @@ body{background-color:#f3f6f4;
     float:right;
     color: white;
     margin: 4px 4px;
-    padding: 15px 32px;
+    padding: 10px 25px;
     cursor: pointer;
     font-family:CompolLogo1;}
 
-.msgbv{color:white;
+.msgbv{color:#474661;
     border-bottom:3px solid #7c7c81;
     background-color: white;
     margin: 0px;
@@ -45,4 +45,4 @@ body{background-color:#f3f6f4;
     justify-content: center;
     font-family:CompolLogo1;
     text-decoration-line:black;
-    font-size: 30px;}
+    font-size: 25px;}
