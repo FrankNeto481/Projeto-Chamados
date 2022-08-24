@@ -1,3 +1,11 @@
+@font-face{
+    font-family:CompolLogo1;
+    src:url(/src/font/RBNo3.1-Light.otf)}
+
+    @font-face{
+        font-family:CompolLogo2;
+        src:url(/src/font/RBNo3.1-Black.otf)}
+
 header{
 
     background-color: white;
@@ -14,16 +22,27 @@ header{
 
 .abas{
     color: #474661;
-    font-family:myfirstfont;
-    src:url(/src/font/RBNo3.1-Light.otf)}
+    font-family:CompolLogo1;}
 
-body{background-color: #d0ced3;
+body{background-color:#f3f6f4;
     margin: 0px;}
 
 .Botao{background-color: #474661;
-    float: right;
+    display: flex;
+    flex-direction:row ;
+    float:right;
     color: white;
     margin: 4px 4px;
     padding: 15px 32px;
     cursor: pointer;
-}
+    font-family:CompolLogo1;}
+
+.msgbv{color:white;
+    border-bottom:3px solid #7c7c81;
+    background-color: white;
+    margin: 0px;
+    display:flex;
+    justify-content: center;
+    font-family:CompolLogo1;
+    text-decoration-line:black;
+    font-size: 30px;}
