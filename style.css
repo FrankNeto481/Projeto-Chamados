@@ -20,7 +20,7 @@ header{
 #NomePrincipal{
     width: 250px;}
 
-.abas{
+#abas{
     color: #474661;
     font-family:CompolLogo1;}
 
@@ -36,6 +36,8 @@ body{background-color:#f3f6f4;
     padding: 10px 25px;
     cursor: pointer;
     font-family:CompolLogo1;}
+
+.Botao:hover, .Botao:active{background-color: #313143}
 
 .msgbv{color:#474661;
     border-bottom:3px solid #7c7c81;
